@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+#chat_a::-webkit-scrollbar {
+  display: none;
+}
+#scroChat::-webkit-scrollbar {
+  display: none;
+}
+#codeShow::-webkit-scrollbar {
+  display: none;
+}
